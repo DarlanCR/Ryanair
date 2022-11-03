@@ -1,6 +1,7 @@
 public class Person
 {   //Atributos
     private string Name, Birth, Cpf, Tel;
+    private int Passport;
     //classe endereço
     
 
@@ -13,13 +14,14 @@ public class Person
         this.Tel = "";
     }
     
-    public Person(string nameP, string birthP, string cpfP, string telP)
+    public Person(string nameP, string birthP, string cpfP, string telP, Adress adressP, int passportP)
     {
         this.Name = nameP;
         this.Birth = birthP;
         this.Cpf = cpfP;
         this.Tel = telP;
-        //passaporte
+        this.adress = adressP;
+        this.Passport = passportP;
     }
 
     public string Name
@@ -44,6 +46,12 @@ public class Person
     {
         get{ return Tel;}
         set{ Tel = value;}
+    }
+
+    public int Passport
+    {
+        get{ return Passport;}
+        set{ Passport = value;}
     }
     
 
