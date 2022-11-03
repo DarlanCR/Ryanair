@@ -1,7 +1,6 @@
 public class Person
 {   //Atributos
     private string Name, Birth, Cpf, Tel;
-    private Adress adress;
     //classe endereço
     
 
