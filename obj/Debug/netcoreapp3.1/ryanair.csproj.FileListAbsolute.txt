@@ -2,3 +2,8 @@ C:\users\darlancrs\desktop\ryanair\obj\Debug\netcoreapp3.1\ryanair.csprojAssembl
 C:\users\darlancrs\desktop\ryanair\obj\Debug\netcoreapp3.1\ryanair.AssemblyInfoInputs.cache
 C:\users\darlancrs\desktop\ryanair\obj\Debug\netcoreapp3.1\ryanair.AssemblyInfo.cs
 C:\users\darlancrs\desktop\ryanair\obj\Debug\netcoreapp3.1\ryanair.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\Ryanair\obj\Debug\netcoreapp3.1\ryanair.csproj.AssemblyReference.cache
+C:\Users\Arthur\Desktop\Ryanair\obj\Debug\netcoreapp3.1\ryanair.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\Ryanair\obj\Debug\netcoreapp3.1\ryanair.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\Ryanair\obj\Debug\netcoreapp3.1\ryanair.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\Ryanair\obj\Debug\netcoreapp3.1\ryanair.csproj.CoreCompileInputs.cache

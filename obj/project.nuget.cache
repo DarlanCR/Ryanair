@@ -1,45 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "TYJ6Np5VPfIuTKDcn5+0moMLSl4kfARlcQMdmT5pLypLmNNCg9VArBQrqOljIVUWgEqs79JDktvZU+qhWqBZHA==",
-  "success": false,
+  "dgSpecHash": "Jyvf9Sxflsh7Aur0Jd5KynNixZ7Gg8KnvlWHcsJEUVQIQnPRo7CaSGoSUcezu5rKTkpB+zGsFf6XGgjjJoiyMA==",
+  "success": true,
   "projectFilePath": "C:\\Users\\Arthur\\Desktop\\Ryanair\\ryanair.csproj",
-  "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1100",
-      "level": "Error",
-      "message": "Não foi possível resolver 'Microsoft.NETCore.App.Ref (= 3.1.0)' para '.NETCoreApp,Version=v3.1'.",
-      "libraryId": "Microsoft.NETCore.App.Ref",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    },
-    {
-      "code": "NU1100",
-      "level": "Error",
-      "message": "Não foi possível resolver 'Microsoft.WindowsDesktop.App.Ref (= 3.1.0)' para '.NETCoreApp,Version=v3.1'.",
-      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    },
-    {
-      "code": "NU1100",
-      "level": "Error",
-      "message": "Não foi possível resolver 'Microsoft.AspNetCore.App.Ref (= 3.1.10)' para '.NETCoreApp,Version=v3.1'.",
-      "libraryId": "Microsoft.AspNetCore.App.Ref",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    },
-    {
-      "code": "NU1100",
-      "level": "Error",
-      "message": "Não foi possível resolver 'Microsoft.NETCore.App.Host.win-x64 (= 3.1.30)' para '.NETCoreApp,Version=v3.1'.",
-      "libraryId": "Microsoft.NETCore.App.Host.win-x64",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  "expectedPackageFiles": [
+    "C:\\Users\\Arthur\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Arthur\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.30\\microsoft.netcore.app.host.win-x64.3.1.30.nupkg.sha512"
+  ],
+  "logs": []
 }

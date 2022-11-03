@@ -2,7 +2,6 @@ public class Person
 {   //Atributos
     private string Name, Birth, Cpf, Tel;
     private int Passport;
-    //classe endereço
     
 
     //Metodos

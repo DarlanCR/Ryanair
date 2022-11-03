@@ -6,7 +6,10 @@ namespace ryanair
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var pessoa1 = new Person();
+            pessoa1.Name = "Teste";
+
+            Console.WriteLine(pessoa1.Name);
         }
     }
 }
