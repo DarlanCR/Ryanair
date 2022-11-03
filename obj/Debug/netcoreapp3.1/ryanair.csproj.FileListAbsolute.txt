@@ -1,0 +1,4 @@
+C:\users\darlancrs\desktop\ryanair\obj\Debug\netcoreapp3.1\ryanair.csprojAssemblyReference.cache
+C:\users\darlancrs\desktop\ryanair\obj\Debug\netcoreapp3.1\ryanair.AssemblyInfoInputs.cache
+C:\users\darlancrs\desktop\ryanair\obj\Debug\netcoreapp3.1\ryanair.AssemblyInfo.cs
+C:\users\darlancrs\desktop\ryanair\obj\Debug\netcoreapp3.1\ryanair.csproj.CoreCompileInputs.cache
